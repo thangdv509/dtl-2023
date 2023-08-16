@@ -10,4 +10,4 @@ Team: **Summer**
 
 ### Note
 
-Answers and explanations for each question are stored in the respective section.
+Answers and explanations for each question are stored in the respective folder.
