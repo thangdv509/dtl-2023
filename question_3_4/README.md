@@ -45,7 +45,7 @@ Next, we will apply a scoring metric, which is shown in the following table:
 
 To be concluded, this method is utilized by 4 steps: 
 
-* Collect data for 6 factors from companies' fiscal year 2022 reports and financial results.
+* Collect data for 7 factors from companies' fiscal year 2022 reports and financial results.
 
 * Identify the Quartiles’ values
 
