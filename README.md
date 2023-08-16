@@ -7,3 +7,7 @@ Team: **Summer**
 ### Install required libraries:
 
 - pip3 install -r requirements.txts
+
+### Note
+
+Answers and explanations for each question are stored in the respective section.
