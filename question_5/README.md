@@ -67,10 +67,8 @@ q respectively:
   *  Run the ARIMA forecasting model and interpret the results.
  
 
-* **Results:**
+* **Revenue Result:**
 
-  * Revenue:
-  
 | Fiscal Year | Total Revenue (million $) | Crude Oil Revenue  (million $) | Natural Gas Revenue (million $) | Other Products Revenue (million $) |
 |:-----------:|:-------------------------:|:------------------------------:|:-------------------------------:|:----------------------------------:|
 |     2024    |          4,390.64         |            2,664.44            |             1,567.15            |               159.05               |
@@ -78,10 +76,9 @@ q respectively:
 |     2026    |         10,034.03         |            4,213.63            |             5,573.09            |               247.31               |
 |     2027    |         14,517.99         |            5,258.49            |             8,962.88            |               296.62               |
 |     2028    |         27,418.55         |            13,534.59           |            13,534.59            |               349.37               |
+
+* **EPS Result:**
   
-
-  * EPS:
-
 | Fiscal Year | EPS (USD) |
 |:-----------:|:---------:|
 |     2024    |    0.82   |
