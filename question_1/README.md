@@ -33,7 +33,13 @@ The characteristics of each group is presented on the table:
 
 The figure shows the revenue of these company above:
 
-![newplot](https://github.com/thangdv509/dtl-2023/assets/74363928/fc277d11-e7eb-4851-8baa-282dc95c0be0)
+<p align="center"> 
+
+ ![newplot](https://github.com/thangdv509/dtl-2023/assets/74363928/fc277d11-e7eb-4851-8baa-282dc95c0be0)
+ 
+ <p align="center"> <b>Figure 1.</b> Revenue of E&P companies.</p>
+
+</p>
 
 We can see that the revenue of NAPIOCs outstands other groups. The reason is that this group 
 involves the majors and large integrated international oil companies over the world (BP, Shell, ExxonMobil, etc).
